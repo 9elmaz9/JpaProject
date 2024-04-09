@@ -2,7 +2,7 @@ package org.example.model;
 
 
 import javax.persistence.*;
-
+//@Data ( alles- lombok)
 @Entity
 @Table(name = "student")
 public class Student {
